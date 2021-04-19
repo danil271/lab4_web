@@ -181,3 +181,32 @@ box img {
 .entry .right-img {
  float: right;
 }
+
+#header img {
+    padding:40px 0px 0px 20px;
+    float: left;
+}
+
+#silebar {
+    width:100%;
+    float:left;
+    border-right:1px solid #be1616;
+    border-bottom:1px solid #1208a1;
+    border-left:1px solid #1a8a29;
+    border-radius: 10px;
+}
+
+#judul_silebar{
+    padding:3px;
+    text-align:center;
+    font-weight:bold;
+    border-bottom:1px solid #191ba1;
+    background-image:url('header.jpg');
+    color:rgb(156, 30, 30);
+    border-radius:5px;
+}
+#isi_silebar ul{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+}
